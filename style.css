@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+  
+h1{
+    colour:black;
+    text-align:center;
+}
+.text{
+    border-color:white;
+    border-style:solid;
+    border-size:5px;
+    margin:16px;
+}
+
+#logo{
+    height:100px;
+    width:200px;
+    display:block;
+    margin-left:0;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 15px;
+}
+  
+.fa-github {
+    background: white;
+    color: black;
+}
+  
+.fa-linkedin {
+    background: #25608d;
+    color: white;
+}
+  
